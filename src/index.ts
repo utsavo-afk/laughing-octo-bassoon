@@ -1,2 +1,1 @@
-import greet from './test';
-greet('Pardnurrrr');
+console.log('it works!');
