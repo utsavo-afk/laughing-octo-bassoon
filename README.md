@@ -1,4 +1,5 @@
-# template-ts-node-base
+# PERN SOCIAL
+A social media app using PERN stack, graphql
 
 ## _Baremetal/Barebones Typescript+Node API development template_
 
